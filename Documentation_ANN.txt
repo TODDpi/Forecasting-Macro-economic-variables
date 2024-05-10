@@ -1,0 +1,21 @@
+1.GLAR+ANN paper summary:
+forecasting accuracy measure: NMSE, Dstat value, Annual rate of return.
+summary:In this extensive literature review, the focus is on exploring various approaches to forecasting exchange rates using machine learning techniques, particularly artificial neural networks (ANNs), and their combinations with traditional forecasting methods. The review highlights several studies that have investigated the performance of different ANN architectures and hybrid models in predicting exchange rates.
+
+Some notable findings from the literature include:
+
+1. Researchers have compared the effectiveness of multilayer feed-forward networks (MLFNs) and recurrent networks in forecasting Japanese yen futures and commonly traded exchange rates.
+
+2. Clustering neural network models have been developed to predict the direction of movements in exchange rates, showing improved performance compared to other indicators.
+
+3. Hybrid models combining neural networks with genetic training have demonstrated superior forecasting accuracy compared to forward and futures rates.
+
+4. Studies have also explored the combination of neural network forecasting models with conventional time series forecasting techniques such as auto-regression integrated moving average (ARIMA), resulting in improved prediction accuracy.
+
+5. Research has shown that ensemble methods, which combine multiple models, consistently outperform single network designs in exchange rate forecasting.
+
+6. Challenges identified in existing hybrid and combined forecasting models include the limitation to linear combination forms and the difficulty in determining the number of individual models for combining forecasting.
+
+To address these challenges, the study proposes a novel nonlinear ensemble forecasting model that integrates ANN and principal component analysis (PCA) techniques. This model aims to enhance forecasting accuracy by leveraging the strengths of various forecasting methods and combining them effectively.
+
+Overall, the review emphasizes the importance of utilizing advanced machine learning techniques, such as ANNs, and their combinations with traditional methods to improve the accuracy of exchange rate forecasting. It provides insights into the evolving landscape of forecasting methodologies and highlights the potential benefits of adopting nonlinear ensemble models for more accurate predictions in foreign exchange markets.
